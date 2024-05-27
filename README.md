@@ -1,2 +1,2 @@
 # week5software
-my project is a reminder
+my project is a reminder app
